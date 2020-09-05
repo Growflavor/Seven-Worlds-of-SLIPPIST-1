@@ -1,0 +1,27 @@
+{
+    	"NAME":"SLIPPIST-1",
+    	"URL":"https://github.com/LapisNator101/Seven-Worlds-of-SLIPPIST-1/tree/master/GameData/SLIPPIST-1/SLIPPIST-1.Version",
+    	"DOWNLOAD":"https://github.com/LapisNator101/Seven-Worlds-of-SLIPPIST-1/releases",
+    	"CHANGE_LOG_URL":"https://www.github.com/Lapisnator101/Seven-Worlds-of-SLIPPIST-1/blob/master/README.md",	
+	"VERSION":{
+        		"MAJOR":0,
+        		"MINOR":9,
+        		"PATCH":9,
+        		"BUILD":2
+    		},
+    	"KSP_VERSION":{
+        		"MAJOR":1,
+        		"MINOR":8,
+        		"PATCH":1
+    		},
+    	"KSP_VERSION_MIN":{
+        		"MAJOR":1,
+        		"MINOR":3,
+        		"PATCH":1
+   		 },
+    	"KSP_VERSION_MAX":{
+        		"MAJOR":1,
+        		"MINOR":8,
+        		"PATCH":1
+    		}
+}
